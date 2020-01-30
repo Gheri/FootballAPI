@@ -1,0 +1,10 @@
+[
+    {
+      "name": "Arsenal",
+      "img": "https://s3-eu-west-1.amazonaws.com/inconbucket/images/entities/original/632.jpg",
+    },
+    {
+      "name": "Bournemouth",
+      "img": "https://s3-eu-west-1.amazonaws.com/inconbucket/images/entities/original/631.jpg"
+    }
+  ]
